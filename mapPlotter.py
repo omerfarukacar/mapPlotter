@@ -1,6 +1,3 @@
-# referans
-# 0
-
 import gmplot
 
 # Harita oluşturulurken zoom yapılması için örnek koordinatlar

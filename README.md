@@ -2,7 +2,7 @@
 
 # Versions
 * Python 3.9.0
-* gmplot
+* gmplot 1.4.1
 
 # Dependencies
 * pip install gmplot

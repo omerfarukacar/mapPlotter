@@ -1,0 +1,5 @@
+latitude:40.965328,longitude:29.0878688,
+latitude:40.96464,longitude:29.0886272,
+latitude:40.9634112,longitude:29.0896448,
+latitude:40.96248,longitude:29.0912608,
+latitude:40.96148,longitude:29.0915608,
